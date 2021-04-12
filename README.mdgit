@@ -1,0 +1,2 @@
+"# cs130-coursework"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Ezraokeson/cs130-coursework.gitgit push -u origin main
+"# cs130-coursework"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Ezraokeson/cs130-coursework.gitgit push -u origin main
